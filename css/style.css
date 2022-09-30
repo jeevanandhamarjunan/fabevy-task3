@@ -7,21 +7,29 @@
 
 .size{
           padding:0 10px 0 28px;
-}
+          
+          
+}        
 .smile i{
          color:blue;
+         
 }
    
 .smile{
+      
       display: flex;
     font: icon;
     background: #fff;
     max-width: 200px;
     align-items: center;
-    padding: 10px 15px;
+    padding: 30px 40px 30px 5px;
     /* border: solid 1px #ccc; */
     margin: 80px auto;
     box-shadow: 0 0 5px #ccc;
+}
+.client{
+        position:relative;
+        left:6%;
 }
 
 .smile .client h1{ 
